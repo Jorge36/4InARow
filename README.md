@@ -8,20 +8,9 @@ horizontally or vertically to win the match. The game can only be a draw
 if ALL the squares are filled and NO ONE has 4-in-a-row
 
 1) EXAMPLE - Assume a 5 x 5 grid, so :
-Start Grid 
+Start Grid
 
-  1    2    3    4    5  
- ---  ---  ---  ---  --- 
-|    |    |    |    |    |
- ---  ---  ---  ---  --- 
-|    |    |    |    |    |
- ---  ---  ---  ---  --- 
-|    |    |    |    |    |
- ---  ---  ---  ---  --- 
-|    |    |    |    |    |
- ---  ---  ---  ---  --- 
-|    |    |    |    |    |
- ---  ---  ---  ---  --- 
+![Uploading image.png…]()
 
 The start grid is always blank! Note how the columns are labelled across
 the top so that the player knows what column to pick
