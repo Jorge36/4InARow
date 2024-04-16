@@ -18,35 +18,13 @@ Press "ENTER" to continue...
 
 2) let’s say Player 1 chooses column 3
 
-  1    2    3    4    5  
- ---  ---  ---  ---  --- 
-|    |    |    |    |    |
- ---  ---  ---  ---  --- 
-|    |    |    |    |    |
- ---  ---  ---  ---  --- 
-|    |    |    |    |    |
- ---  ---  ---  ---  --- 
-|    |    |    |    |    |
- ---  ---  ---  ---  --- 
-|    |    | P  |    |    |
- ---  ---  ---  ---  --- 
+![Image Alt text](/images/square2.png)
 
 Press "ENTER" to continue...
 3) Now let’s say the computer ALSO chooses column 3 – The bottom square is
 not free, so fill the next one up
 
-  1    2    3    4    5  
- ---  ---  ---  ---  --- 
-|    |    |    |    |    |
- ---  ---  ---  ---  --- 
-|    |    |    |    |    |
- ---  ---  ---  ---  --- 
-|    |    |    |    |    |
- ---  ---  ---  ---  --- 
-|    |    | C  |    |    |
- ---  ---  ---  ---  --- 
-|    |    | P  |    |    |
- ---  ---  ---  ---  --- 
+![Image Alt text](/images/square3.png)
 
 Press "ENTER" to continue...
 
@@ -54,18 +32,7 @@ Press "ENTER" to continue...
 This can be HORIZONTAL or VERTICAL
 Sample win – Player
 
-  1    2    3    4    5  
- ---  ---  ---  ---  --- 
-|    |    |    |    |    |
- ---  ---  ---  ---  --- 
-| P  |    |    |    |    |
- ---  ---  ---  ---  --- 
-| P  |    |    |    |    |
- ---  ---  ---  ---  --- 
-| P  |    | C  |    |    |
- ---  ---  ---  ---  --- 
-| P  |    | P  |    |    |
- ---  ---  ---  ---  --- 
+![Image Alt text](/images/square4.png)
 
 The player has 4 in a row vertically in the column 1
 
@@ -84,18 +51,7 @@ Which game would you prefer to play?
 [3] Leave the game
 
 1
-  1    2    3    4    5  
- ---  ---  ---  ---  --- 
-|    |    |    |    |    |
- ---  ---  ---  ---  --- 
-|    |    |    |    |    |
- ---  ---  ---  ---  --- 
-|    |    |    |    |    |
- ---  ---  ---  ---  --- 
-|    |    |    |    |    |
- ---  ---  ---  ---  --- 
-|    |    |    |    |    |
- ---  ---  ---  ---  --- 
+![Image Alt text](/images/square5.png)
 
 Select a valid column to fill the square/cell.....
 
