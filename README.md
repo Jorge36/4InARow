@@ -10,7 +10,7 @@ if ALL the squares are filled and NO ONE has 4-in-a-row
 1) EXAMPLE - Assume a 5 x 5 grid, so :
 Start Grid
 
-![Uploading image.png…]()
+![Image Alt text](/images/square1.png
 
 The start grid is always blank! Note how the columns are labelled across
 the top so that the player knows what column to pick
