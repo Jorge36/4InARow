@@ -30,7 +30,7 @@ not free, so fill the next one up
 Press "ENTER" to continue...
 
 4) To win the game, the Player (or the computer) must get “4 in a row”.
-This can be HORIZONTAL or VERTICAL
+This can be HORIZONTAL, VERTICAL OR DIAGONAL
 Sample win – Player
 
 ![Image Alt text](/images/square4.png)
