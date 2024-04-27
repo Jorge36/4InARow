@@ -5,7 +5,7 @@ How to play? A grid is shown on the screen (5x5 or 10x10). You play
 against the computer. The player/computer chooses a column to drop a
 piece/letter (C for computer and P for player) which will be inserted in
 the bottom most square in the column that is free. Connect 4 pieces
-horizontally or vertically to win the match. The game can only be a draw 
+horizontally, vertically or diagonally to win the match. The game can only be a draw 
 if ALL the squares are filled and NO ONE has 4-in-a-row
 
 1) EXAMPLE - Assume a 5 x 5 grid, so : <br />
