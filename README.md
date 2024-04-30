@@ -1,5 +1,7 @@
 # 4InARow
 
+Application was developed in Netbenas on Ubuntu 20.04.
+
 **** Welcome to Game Simulator 4-in-a-row *****
 How to play? A grid is shown on the screen (5x5 or 10x10). You play 
 against the computer. The player/computer chooses a column to drop a
