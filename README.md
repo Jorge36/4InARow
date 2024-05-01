@@ -43,11 +43,11 @@ The player has 4 in a row vertically in the column 1
 # The game starts
 Please, enter player details to start to play <br />
 Please, enter your fullname (firstname surname separated by a space) <br />
-jorge r <br />
+jorge lopez <br />
 Please, enter your age - The player must be aged over 12 and under 100 <br />
 40 <br />
 Please, enter your email <br />
-j@mail.com <br />
+jlopez@mail.com <br />
 Which game would you prefer to play? <br />
 [1] SHORT GAME - 5 X 5 <br />
 [2] LONG GAME - 10 X 10 <br />
