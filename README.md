@@ -2,7 +2,7 @@
 
 Application was developed in Netbeans IDE on Ubuntu 20.04.
 
-In ./Testing/ there is a video of the game running. 
+In Testing/ there is a video (4InARow.mkv) of the game running. 
 
 **** Welcome to Game Simulator 4-in-a-row *****
 How to play? A grid is shown on the screen (5x5 or 10x10). You play 
